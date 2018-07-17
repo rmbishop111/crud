@@ -1,10 +1,10 @@
 <?php
 class Database 
 {
-	private static $dbName = 'crud_tutorial' ; 
+	private static $dbName = 'rmbishop' ; 
 	private static $dbHost = 'localhost' ;
-	private static $dbUsername = 'root';
-	private static $dbUserPassword = 'root';
+	private static $dbUsername = 'rmbishop';
+	private static $dbUserPassword = '569031';
 	
 	private static $cont  = null;
 	
